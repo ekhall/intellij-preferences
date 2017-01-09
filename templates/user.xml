@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="omroot" value="(om/root&#10;  (fn [data owner]&#10;    (om/component ))&#10;  app-state&#10;  {:target (. js/document (getElementById &quot;headerbar&quot;))})" description="Om root with IRender component" toReformat="false" toShortenFQNames="true" />
+</templateSet>

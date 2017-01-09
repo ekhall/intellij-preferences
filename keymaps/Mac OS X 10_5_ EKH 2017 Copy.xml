@@ -1,0 +1,17 @@
+<keymap version="1" name="Mac OS X 10.5+ EKH 2017 Copy" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+  </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="l" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl c" />
+  </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="t" />
+  </action>
+</keymap>

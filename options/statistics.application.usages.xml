@@ -1,0 +1,185 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="dataomic-dsl" values="Clojure" collectionTime="1451958421217" />
+      <project id="shouter" values="Clojure" collectionTime="1450649285698" />
+      <project id="aurora" values="Clojure" collectionTime="1451958366689" />
+      <project id="kev-app" values="Clojure" collectionTime="1455733162225" />
+      <project id="rna-transcription" values="Clojure" collectionTime="1483929445717" />
+      <project id="cljapplied" values="Clojure" collectionTime="1450649267885" />
+      <project id="clojure-getting-started" values="Clojure" collectionTime="1449969912135" />
+      <project id="liberator-tutorial" values="Clojure" collectionTime="1449971073176" />
+      <project id="future-app" values="Clojure" collectionTime="1452029778125" />
+      <project id="bob" values="Clojure" collectionTime="1483922400404" />
+      <project id="word-count" values="Clojure" collectionTime="1483961880667" />
+    </group>
+    <group name="Git">
+      <project id="future-app" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1452029778137" />
+      <project id="fib" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1483905247020" />
+      <project id="kev-app" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1455733162227" />
+      <project id="liberator-tutorial" values="config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1449971073177" />
+      <project id="cljapplied" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1450649267890" />
+      <project id="word-count" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1483961880671" />
+      <project id="luno" values="config.ssh.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.save.policy.STASH" collectionTime="1466472741799" />
+      <project id="aurora" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,data.local.branches.count.1,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.1" collectionTime="1451958366697" />
+      <project id="restful-clojure" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,data.remotes.in.project.1,data.remote.branches.count.2+,data.local.branches.count.1" collectionTime="1449971888782" />
+      <project id="dataomic-dsl" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1451958421226" />
+      <project id="rna-transcription" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1483929445718" />
+      <project id="clojure-getting-started" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,data.remotes.in.project.2+,data.local.branches.count.1,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remote.branches.count.5+" collectionTime="1449969912141" />
+      <project id="shouter" values="config.warn.about.crlf.enabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,data.remotes.in.project.1,config.ssh.enabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1450649285699" />
+      <project id="bob" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled" collectionTime="1483922400408" />
+    </group>
+    <group name="vcs">
+      <project id="luno" values="Git" collectionTime="1466472741706" />
+      <project id="shouter" values="Git" collectionTime="1450649285660" />
+      <project id="clojure-getting-started" values="Git" collectionTime="1449969912068" />
+      <project id="restful-clojure" values="Git" collectionTime="1449971888758" />
+      <project id="aurora" values="Git" collectionTime="1451958366630" />
+    </group>
+    <group name="frameworks">
+      <project id="future-app" values="android" collectionTime="1452029778010" />
+      <project id="kev-app" values="android" collectionTime="1455733162183" />
+      <project id="luno" values="android" collectionTime="1466472741707" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="future-app" values="ECMAScript 5.1" collectionTime="1452029778143" />
+      <project id="fib" values="ECMAScript 5.1" collectionTime="1483905247113" />
+      <project id="kev-app" values="JSX Harmony" collectionTime="1455733162227" />
+      <project id="liberator-tutorial" values="ECMAScript 5.1" collectionTime="1449971073177" />
+      <project id="cljapplied" values="ECMAScript 5.1" collectionTime="1450649267946" />
+      <project id="word-count" values="ECMAScript 5.1" collectionTime="1483961880675" />
+      <project id="luno" values="ECMAScript 5.1" collectionTime="1466472741859" />
+      <project id="aurora" values="ECMAScript 5.1" collectionTime="1451958366756" />
+      <project id="restful-clojure" values="ECMAScript 5.1" collectionTime="1449971888782" />
+      <project id="dataomic-dsl" values="ECMAScript 5.1" collectionTime="1451958421279" />
+      <project id="rna-transcription" values="ECMAScript 5.1" collectionTime="1483929445723" />
+      <project id="clojure-getting-started" values="ECMAScript 5.1" collectionTime="1449969912143" />
+      <project id="shouter" values="ECMAScript 5.1" collectionTime="1450649285700" />
+      <project id="bob" values="ECMAScript 5.1" collectionTime="1483922400544" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="dataomic-dsl" values="ClojureREPL.Local" collectionTime="1451958421141" />
+      <project id="kev-app" values="ClojureREPL.Local" collectionTime="1455733162183" />
+      <project id="aurora" values="ClojureREPL.Remote" collectionTime="1451958366631" />
+      <project id="rna-transcription" values="ClojureREPL.Local" collectionTime="1483929445684" />
+      <project id="cljapplied" values="ClojureREPL.Local" collectionTime="1450649267813" />
+      <project id="clojure-getting-started" values="ClojureREPL.Local,ClojureREPL.Remote" collectionTime="1449969912069" />
+      <project id="liberator-tutorial" values="ClojureREPL.Remote" collectionTime="1449971073153" />
+      <project id="bob" values="ClojureREPL.Local" collectionTime="1483922400297" />
+      <project id="word-count" values="ClojureREPL.Local" collectionTime="1483961880631" />
+    </group>
+    <group name="vcs-options">
+      <project id="rna-transcription" values="check.conflicts.in.background.disabled,perform.update.in.background.enabled,commit.before.check.todo.enabled,perform.edit.in.background.enabled,perform.commit.in.background.enabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,commit.clear.initial.comment.disabled,commit.before.reformat.file.disabled,commit.before.optimize.imports.disabled,changelist.make.new.active.disabled,show.changes.preview.disabled,commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,offer.move.partially.committed.disabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,perform.checkout.in.background.enabled,include.text.into.shelf.disabled,offer.remove.empty.changelist.show_confirmation,changelist.preselect.existing.disabled,commit.before.check.files.up.to.date.disabled" collectionTime="1483929445684" />
+      <project id="bob" values="commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,offer.move.partially.committed.disabled,perform.rollback.in.background.disabled,changelist.make.new.active.disabled,commit.before.rearrange.disabled,show.changes.preview.disabled,perform.update.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.code.smell.enabled,changelist.preselect.existing.disabled,commit.before.reformat.project.disabled,perform.add_remove.in.background.enabled,include.text.into.shelf.disabled,perform.checkout.in.background.enabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,perform.commit.in.background.enabled,commit.before.optimize.imports.disabled,commit.clear.initial.comment.disabled,check.conflicts.in.background.disabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.file.disabled,commit.before.check.todo.enabled" collectionTime="1483922400294" />
+      <project id="word-count" values="commit.before.check.files.up.to.date.disabled,commit.before.reformat.file.disabled,commit.before.optimize.imports.disabled,perform.commit.in.background.enabled,commit.use.right.margin.enabled,show.changes.preview.disabled,commit.before.reformat.project.disabled,offer.remove.empty.changelist.show_confirmation,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.non.empty.comment.disabled,check.conflicts.in.background.disabled,commit.before.rearrange.disabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,changelist.make.new.active.disabled,changelist.preselect.existing.disabled,commit.clear.initial.comment.disabled,commit.before.check.todo.enabled,commit.show.unversioned.enabled,offer.move.partially.committed.disabled,commit.before.check.code.smell.enabled,perform.checkout.in.background.enabled,include.text.into.shelf.disabled" collectionTime="1483961880631" />
+      <project id="fib" values="changelist.preselect.existing.disabled,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,perform.update.in.background.enabled,commit.before.check.todo.enabled,commit.before.rearrange.disabled,show.changes.preview.disabled,perform.rollback.in.background.disabled,offer.move.failed.committed.do_nothing_silently,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.smell.enabled,commit.before.reformat.project.disabled,perform.edit.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.check.code.cleanup.disabled,perform.checkout.in.background.enabled,include.text.into.shelf.disabled,perform.commit.in.background.enabled,commit.use.right.margin.enabled,commit.show.unversioned.enabled,offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,commit.before.reformat.file.disabled,check.conflicts.in.background.disabled,changelist.make.new.active.disabled" collectionTime="1483905246969" />
+    </group>
+    <group name="language-level">
+      <project id="future-app" values="JDK_1_6" collectionTime="1452029778135" />
+      <project id="fib" values="JDK_1_6" collectionTime="1483905247019" />
+      <project id="kev-app" values="JDK_1_6" collectionTime="1455733162227" />
+      <project id="liberator-tutorial" values="JDK_1_6" collectionTime="1449971073177" />
+      <project id="cljapplied" values="JDK_1_6" collectionTime="1450649267889" />
+      <project id="word-count" values="JDK_1_6" collectionTime="1483961880671" />
+      <project id="luno" values="JDK_1_6" collectionTime="1466472741797" />
+      <project id="aurora" values="JDK_1_6" collectionTime="1451958366694" />
+      <project id="restful-clojure" values="JDK_1_6" collectionTime="1449971888782" />
+      <project id="dataomic-dsl" values="JDK_1_6" collectionTime="1451958421225" />
+      <project id="rna-transcription" values="JDK_1_6" collectionTime="1483929445718" />
+      <project id="clojure-getting-started" values="JDK_1_6" collectionTime="1449969912138" />
+      <project id="shouter" values="JDK_1_6" collectionTime="1450649285698" />
+      <project id="bob" values="JDK_1_6" collectionTime="1483922400408" />
+    </group>
+    <group name="images.ide.background">
+      <project id="rna-transcription" values="frame 0,editor 0" collectionTime="1483929445717" />
+      <project id="bob" values="editor 0,frame 0" collectionTime="1483922400404" />
+      <project id="word-count" values="frame 0,editor 0" collectionTime="1483961880667" />
+      <project id="fib" values="editor 0,frame 0" collectionTime="1483905247014" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="future-app" values="Project,Project" collectionTime="1452029778143" />
+      <project id="fib" values="Project" collectionTime="1483905247113" />
+      <project id="kev-app" values="Project,Project,Project" collectionTime="1455733162227" />
+      <project id="liberator-tutorial" values="Project,Project" collectionTime="1449971073177" />
+      <project id="cljapplied" values="Project,Project" collectionTime="1450649267946" />
+      <project id="word-count" values="Project" collectionTime="1483961880675" />
+      <project id="luno" values="Project,Project" collectionTime="1466472741859" />
+      <project id="aurora" values="Project,Project" collectionTime="1451958366756" />
+      <project id="restful-clojure" values="Project,Project" collectionTime="1449971888782" />
+      <project id="dataomic-dsl" values="Project,Project" collectionTime="1451958421279" />
+      <project id="rna-transcription" values="Project" collectionTime="1483929445723" />
+      <project id="clojure-getting-started" values="Project,Project" collectionTime="1449969912143" />
+      <project id="shouter" values="Project,Project" collectionTime="1450649285700" />
+      <project id="bob" values="Project" collectionTime="1483922400543" />
+    </group>
+    <group name="file-type">
+      <project id="future-app" values="Properties,TypeScript,Images,Clojure,C++,ARCHIVE,JavaScript,Clojurescript,PLAIN_TEXT,JAVA,JSX Harmony,UNKNOWN,CSS,IDEA_MODULE,JSHint,JSON,HTML,PATCH,SourceMap,XML,JSCS,ESLint,CoffeeScript,Groovy,ProGuard File,YAML" collectionTime="1452029778111" />
+      <project id="fib" values="PLAIN_TEXT,UNKNOWN,Properties,Markdown,Clojure" collectionTime="1483905247013" />
+      <project id="kev-app" values="SourceMap,ARCHIVE,Groovy,JSON,PLAIN_TEXT,C++,Images,ESLint,CoffeeScript,Properties,IDEA_MODULE,Clojurescript,TypeScript,PATCH,JSCS,HTML,JAVA,JavaScript,Clojure,JSX Harmony,XML,UNKNOWN,JSHint,YAML,ProGuard File,CSS" collectionTime="1455733162224" />
+      <project id="liberator-tutorial" values="PLAIN_TEXT,UNKNOWN,IDEA_MODULE,Clojure,XML" collectionTime="1449971073176" />
+      <project id="cljapplied" values="XML,PLAIN_TEXT,IDEA_MODULE,Clojure,UNKNOWN" collectionTime="1450649267877" />
+      <project id="word-count" values="Markdown,PLAIN_TEXT,IDEA_MODULE,Clojure" collectionTime="1483961880666" />
+      <project id="luno" values="JSHint,ESLint,CoffeeScript,TypeScript,Properties,PATCH,Images,C++,JavaScript,HTML,XML,SourceMap,AIDL,YAML,ProGuard File,JSX Harmony,CLASS,JSON,UNKNOWN,JSCS,PLAIN_TEXT,IDEA_MODULE,CSS,Groovy,JAVA,ARCHIVE" collectionTime="1466472741779" />
+      <project id="aurora" values="Clojure,UNKNOWN,CSS,JavaScript,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1451958366681" />
+      <project id="restful-clojure" values="Clojure,IDEA_MODULE,UNKNOWN,XML,PLAIN_TEXT,SQL" collectionTime="1449971888782" />
+      <project id="dataomic-dsl" values="IDEA_MODULE,Clojure,UNKNOWN,Properties,XML,PLAIN_TEXT" collectionTime="1451958421204" />
+      <project id="rna-transcription" values="Clojure,Markdown,IDEA_MODULE,PLAIN_TEXT" collectionTime="1483929445716" />
+      <project id="clojure-getting-started" values="XML,IDEA_MODULE,HTML,JSON,PLAIN_TEXT,Clojure,UNKNOWN" collectionTime="1449969912126" />
+      <project id="shouter" values="Images,UNKNOWN,CSS,PLAIN_TEXT,JSON,Clojure,IDEA_MODULE,XML" collectionTime="1450649285695" />
+      <project id="bob" values="IDEA_MODULE,Clojure,PLAIN_TEXT,Markdown" collectionTime="1483922400385" />
+    </group>
+    <group name="module type">
+      <project id="future-app" values="JAVA_MODULE" collectionTime="1452029778010" />
+      <project id="fib" values="JAVA_MODULE" collectionTime="1483905246970" />
+      <project id="kev-app" values="JAVA_MODULE" collectionTime="1455733162183" />
+      <project id="liberator-tutorial" values="JAVA_MODULE" collectionTime="1449971073153" />
+      <project id="cljapplied" values="JAVA_MODULE" collectionTime="1450649267813" />
+      <project id="word-count" values="JAVA_MODULE" collectionTime="1483961880631" />
+      <project id="luno" values="JAVA_MODULE" collectionTime="1466472741707" />
+      <project id="aurora" values="JAVA_MODULE" collectionTime="1451958366630" />
+      <project id="restful-clojure" values="JAVA_MODULE" collectionTime="1449971888758" />
+      <project id="dataomic-dsl" values="JAVA_MODULE" collectionTime="1451958421140" />
+      <project id="rna-transcription" values="JAVA_MODULE" collectionTime="1483929445684" />
+      <project id="clojure-getting-started" values="JAVA_MODULE" collectionTime="1449969912068" />
+      <project id="shouter" values="JAVA_MODULE" collectionTime="1450649285660" />
+      <project id="bob" values="JAVA_MODULE" collectionTime="1483922400296" />
+    </group>
+    <group name="deployment server">
+      <project id="future-app" values="SFTP" collectionTime="1452029778142" />
+      <project id="fib" values="SFTP" collectionTime="1483905247112" />
+      <project id="kev-app" values="SFTP" collectionTime="1455733162227" />
+      <project id="liberator-tutorial" values="SFTP" collectionTime="1449971073177" />
+      <project id="cljapplied" values="SFTP" collectionTime="1450649267945" />
+      <project id="word-count" values="SFTP" collectionTime="1483961880675" />
+      <project id="luno" values="SFTP" collectionTime="1466472741859" />
+      <project id="aurora" values="SFTP" collectionTime="1451958366756" />
+      <project id="restful-clojure" values="SFTP" collectionTime="1449971888782" />
+      <project id="dataomic-dsl" values="SFTP" collectionTime="1451958421279" />
+      <project id="rna-transcription" values="SFTP" collectionTime="1483929445723" />
+      <project id="clojure-getting-started" values="SFTP" collectionTime="1449969912143" />
+      <project id="shouter" values="SFTP" collectionTime="1450649285700" />
+      <project id="bob" values="SFTP" collectionTime="1483922400543" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="execute.ClojureREPL.Run" count="27" />
+      <entry feature="ide.settings.Clojure_Keybindings" count="5" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="7" />
+      <entry feature="ide.settings.Console_Font" count="4" />
+      <entry feature="ide.settings.Deployment" count="12" />
+      <entry feature="ide.settings.Font" count="7" />
+      <entry feature="ide.settings.Keymap" count="13" />
+      <entry feature="ide.settings.Options" count="3" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ideaapp.started" count="22" />
+      <entry feature="terminal.mac" count="15" />
+      <entry feature="terminal.ssh" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="9" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>

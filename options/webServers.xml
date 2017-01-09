@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="22db5d46-b1dc-493c-8ca2-e9a8e25dc718" name="10.0.1.2" url="http://10.0.1.2">
+        <fileTransfer host="10.0.1.2" port="22" rootFolder="/home/hall/Code/Clojure" accessType="SFTP" password="dfcbdfc9dfd9df9bdfc7dfcedfc6dfc7" username="hall">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

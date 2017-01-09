@@ -1,0 +1,203 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/Exercism/clojure/word-count" />
+        <option value="$USER_HOME$/Code/Exercism/clojure/rna-transcription" />
+        <option value="$USER_HOME$/Code/Exercism/clojure/bob" />
+        <option value="$USER_HOME$/Code/Clojure/fib" />
+        <option value="$USER_HOME$/Code/ReactNative/luno-react-native" />
+        <option value="$USER_HOME$/Code/ReactNative/kev-app" />
+        <option value="$USER_HOME$/Code/ReactNative/future-app" />
+        <option value="$USER_HOME$/Code/Clojure/datomic-dsl" />
+        <option value="$USER_HOME$/Code/Clojure/aurora" />
+        <option value="$USER_HOME$/Code/Clojure/dataomic-dsl" />
+        <option value="$USER_HOME$/Code/Clojure/ClojureApplied/code/cljapplied" />
+        <option value="$USER_HOME$/Code/Clojure/shouter" />
+        <option value="$USER_HOME$/Code/Clojure/restful-clojure" />
+        <option value="$USER_HOME$/Code/Clojure/liberator-tutorial" />
+        <option value="$USER_HOME$/Code/Clojure/clojure-getting-started" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Code/Exercism/clojure/word-count" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Code/Exercism/clojure/word-count" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/Clojure/ClojureApplied/code/cljapplied">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450649247955" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Clojure/aurora">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1451958385276" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Clojure/clojure-getting-started">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1449967032245" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Clojure/dataomic-dsl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1451185730668" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Clojure/datomic-dsl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1451958386793" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Clojure/fib">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.2014.21" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483905001554" />
+              <option name="buildTimestamp" value="1483014295070" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Clojure/liberator-tutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1449969977200" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Clojure/restful-clojure">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1449971177231" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Clojure/shouter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450649245884" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Exercism/clojure/bob">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.2014.21" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483905533201" />
+              <option name="buildTimestamp" value="1483014286119" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Exercism/clojure/rna-transcription">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.2014.21" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483922423038" />
+              <option name="buildTimestamp" value="1483014286119" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Exercism/clojure/word-count">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.2014.21" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483962054330" />
+              <option name="buildTimestamp" value="1483014286038" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/ReactNative/future-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455067485739" />
+              <option name="buildTimestamp" value="1453179600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/ReactNative/kev-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466472702699" />
+              <option name="buildTimestamp" value="1453179600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/ReactNative/luno-react-native">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466472709151" />
+              <option name="buildTimestamp" value="1453179600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Code/Exercism/clojure" />
+  </component>
+</application>

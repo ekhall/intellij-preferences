@@ -1,0 +1,27 @@
+<application>
+  <component name="DimensionService">
+    <location key="SettingsEditor.0.0.1920.1200" x="442" y="152" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200" x="959" y="230" />
+    <location key="FileChooserDialogImpl.0.0.1920.1200" x="726" y="238" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1200" x="678" y="426" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1920.1200" x="737" y="384" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1200" x="424" y="261" />
+    <location key="OptionsEditor.0.0.1920.1200" x="448" y="180" />
+    <location key="com.jetbrains.plugins.webDeployment.ui.AdvancedOptionsDialog.0.0.1920.1200" x="787" y="412" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1200" x="710" y="475" />
+    <location key="#Custom_Plugin_Repositories.0.0.1920.1200" x="821" y="369" />
+    <location key="#Browse_Repositories.0.0.1920.1200" x="548" y="151" />
+    <location key="publish.login.0.0.1920.1200" x="833" y="507" />
+    <location key="#Deployment.0.0.1920.1200" x="560" y="264" />
+    <location key="#Options.0.0.1920.1200" x="594" y="332" />
+    <location key="#Updates.0.0.1920.1200" x="714" y="485" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.-877.1200.1920" x="1976" y="-177" />
+    <location key="#Plugins.0.0.1920.1200" x="566" y="274" />
+    <location key="SettingsEditor.0.0.3840.2400@192dpi" x="724" y="264" />
+    <location key="#Browse_Repositories.0.0.3840.2400@192dpi" x="1462" y="592" />
+    <location key="WELCOME_SCREEN.0.0.3840.2400@192dpi" x="1918" y="460" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.3840.2400@192dpi" x="848" y="522" />
+    <size key="#Options.0.0.1920.1200" width="731" height="566" />
+    <size key="SettingsEditor.0.0.3840.2400@192dpi" width="2642" height="1696" />
+  </component>
+</application>
